@@ -1,4 +1,4 @@
-### Tissue Mechanics Laboratory
+## Tissue Mechanics Laboratory
 
 In the Mao lab we are interested in understanding how tissues achieve their correct size, shape and complex three-dimensional architecture, both during normal development, and during regenerative growth.
 
@@ -6,7 +6,10 @@ The genetic and biochemical control of tissue growth and regeneration has been e
 
 We use an interdisciplinary approach, combining Drosophila genetics, live imaging, automated image analysis, experimental biophysics, engineering and computational modeling, to understand the importance of mechanical forces in controlling tissue growth and regeneration and how these forces in turn influence gene expression and signaling pathways.
 
+### Projects
+
+Epitools - http://epitools.github.io
 
 
 
-https://www.ucl.ac.uk/lmcb/users/yanlan-mao
+For more information, please visit: https://www.ucl.ac.uk/lmcb/users/yanlan-mao
